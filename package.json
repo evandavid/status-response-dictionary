@@ -1,0 +1,19 @@
+{
+  "name": "status-response-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evandavid/status-response-dictionary.git"
+  },
+  "author": "Evan David Kristian <evkristian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evandavid/status-response-dictionary/issues"
+  },
+  "homepage": "https://github.com/evandavid/status-response-dictionary#readme"
+}
